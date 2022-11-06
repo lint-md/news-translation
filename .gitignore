@@ -8,8 +8,5 @@ pnpm-lock.yaml
 # jetbrains IDE
 .idea
 
-# vscode
-.vscode
-
 
 
