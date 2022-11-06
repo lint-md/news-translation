@@ -19,12 +19,12 @@
 
 问题是，我需要为其添加链接的文章中有 33 个标题。滚动浏览 10,000 字文档以获取标题然后滚动到顶部以将其添加到目录中的想法让我想知道是否有更好的方法来做到这一点！
 
-### 目录:
+### 目录
 
 -   [JavaScript 来拯救!](#javascript-to-the-rescue-)
 -   [获取元素属性](#get-the-element-properties)
--   [获取元素 id 和 `innerText`](#get-the-element-id-and-innertext)
--   [筛选 `localName`](#filter-on-the-localname)
+-   [获取元素 id 和`innerText`](#get-the-element-id-and-innertext)
+-   [筛选`localName`](#filter-on-the-localname)
 -   [结论](#conclusion)
 
 ## JavaScript 来拯救!

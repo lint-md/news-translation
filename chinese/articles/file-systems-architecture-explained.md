@@ -336,7 +336,7 @@ exFAT was designed for high\-capacity removable devices, such as external hard d
 
 exFAT is the default file system used by **SDXC** **cards**.
 
-Unlike NTFS, exFAT has **read and write** support on Non\-Windows environments as well , including Mac OS — making it the best cross\-platform file system for high\-capacity removable storage devices.
+Unlike NTFS, exFAT has **read and write** support on Non\-Windows environments as wel , including Mac OS — making it the best cross\-platform file system for high\-capacity removable storage devices.
 
 So basically, if you have a removable disk you want to use on Windows, Mac, and Linux, you need to format it to exFAT.
 
@@ -434,9 +434,9 @@ The act of assigning a directory to a storage device (under the root directory t
 
 That said, on a Unix\-like operating system, all partitions and removable storage devices appear as if they are directories under the root directory.
 
-For instance, on Linux, the mounting point for a removable device (such as a memory card), is `/media` (relative to the root directory) by default \-  unless configured otherwise.
+For instance, on Linux, the mounting point for a removable device (such as a memory card), is `/media` (relative to the root directory) by default \- unless configured otherwise.
 
-That said, once a flash memory is attached to the system, and consequently, *auto mounted* at the default mounting point (`/media` in this case), its content would be available under `/media` directory .
+That said, once a flash memory is attached to the system, and consequently, *auto mounted* at the default mounting point (`/media` in this case), its content would be available under `/media` directory.
 
 However, there are times you need to mount a file system manually.
 
@@ -468,7 +468,7 @@ File metadata is a data structure that contains **data about a file**, such as:
 *   What blocks on the partition are allocated to the file
 *   and a lot more
 
-Metadata isn’t stored with the file content, though. Instead, it’s stored in a different place  on the disk \- but associated with the file.
+Metadata isn’t stored with the file content, though. Instead, it’s stored in a different place on the disk \- but associated with the file.
 
 In Unix\-like systems, the metadata is in the form of special data structures, called **inode**.
 
@@ -656,7 +656,7 @@ Let's make it more clear with an example.
 
 Imagine you have a Word document named `myfile.docx`.
 
-`myfile.docx` is initially stored in a few contiguous blocks on the disk, let's say `LBA250`, `LBA251`, and `LBA252`  \- by the way, this naming is hypothetical.
+`myfile.docx` is initially stored in a few contiguous blocks on the disk, let's say `LBA250`, `LBA251`, and `LBA252` \- by the way, this naming is hypothetical.
 
 Now, if you add more content to `myfile.docx` and save it, it will need to occupy more blocks on the storage medium.
 
@@ -851,7 +851,7 @@ However, in a database file system, there’s no concept of paths and directorie
 
 The database file system is a **faceted system** which groups files based on various *attributes* and *dimensions*.
 
-For instance, MP3 files can be listed by artist, genre, release year, and album \-  at the same time!
+For instance, MP3 files can be listed by artist, genre, release year, and album \- at the same time!
 
 A database file system is more like a high\-level application to help you organise and access your files more easily and more efficiently. However, you won’t be able to access the files outside of this application.
 

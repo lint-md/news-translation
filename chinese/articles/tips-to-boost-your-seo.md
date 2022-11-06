@@ -143,7 +143,7 @@ More importantly, Google and other search engines use social signals to determin
 
 It’s important to note that not all social signals have the same influence on SEO. Some signals give a site more authority than others, so it would be wise for you to determine which ones are worth pursuing for your business goals.
 
-## How to Encourage Quality Backlinks to Your Site.
+## How to Encourage Quality Backlinks to Your Site
 
 One of the most effective ways to boost your SEO is to encourage quality backlinks to your site by sharing your blog posts on social networks and encouraging influencers to share your content.
 

@@ -632,7 +632,7 @@ Not having to manage comments frees up a lot of time and mental energy. It also 
 
 ### One step at a time
 
-Don't think you have to rush and do everything at once: open the blog, write 100 posts, create a Twitter account, a Facebook page, an Instagram account, make YouTube videos… it's just too much.
+Don't think you have to rush and do everything at once: open the blog, write 100 posts, create a Twitter account, a Facebook page, an Instagram account, make YouTube videos…… it's just too much.
 
 Start with the simplest thing you can do, create a habit, make that habit stick in your day to day and expand from there.
 
@@ -858,7 +858,7 @@ One of the easiest ways to become inconsistent is to miss a day because you were
 
 When you miss a day, and you forgive yourself for this, you will miss other days.
 
-That's what I would do. If I let one day slip by without a post, well… nothing bad happens and I have a track record of missing one post.
+That's what I would do. If I let one day slip by without a post, well…… nothing bad happens and I have a track record of missing one post.
 
 Before I realize it, I am sure I will miss other posts, too. Just because I was too lazy one day, I ruined the consistency of my blog and now it's impossible to get that perfect streak of posts back.
 

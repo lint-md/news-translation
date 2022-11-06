@@ -9,7 +9,7 @@ Cryptography is the science of using codes and ciphers to protect messages. And 
 
 Encryption is a two way function – that is, you need to be able to undo whatever scrambling you’ve done to the message.
 
-Today, there are two basic types of algorithms — symmetric and asymmetric.
+Today, there are two basic types of algorithms —symmetric and asymmetric.
 
 Symmetric algorithms are also known as ‘secret key’ algorithms, and asymmetric algorithms are known as ‘public key’ algorithms.
 
@@ -209,7 +209,7 @@ This is the opposite of the last attack, where the attacker can choose any ciphe
 
 _For example:  David knows an enemy spy is going to send an encrypted message tomorrow, so he replaces the text with his own chosen ciphertext, then spies on the recipient, listening as they read out the plaintext of the message._
 
-### Sources/Further Reading:
+### Sources/Further Reading
 
 -   [NIST Recommendations for Block Cipher Modes of Operation](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf)
 -   [Diffusion and Confusion](https://www.nku.edu/~christensen/diffusionandconfusion)

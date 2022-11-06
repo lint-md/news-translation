@@ -17,7 +17,7 @@ I find Next.js an awesome tool to create Web Applications, and at the end of thi
 
 1.  [Introduction](#introduction)
 2.  [The main features provided by Next.js](#the-main-features-provided-by-next-js)
-3.  [Next.js vs Gatsby vs `create-react-app`](#next-js-vs-gatsby-vs-create-react-app)
+3.  [Next.js vs Gatsby vs`create-react-app`](#next-js-vs-gatsby-vs-create-react-app)
 4.  How to install Next.js
 5.  [View source to confirm SSR is working](#view-source-to-confirm-ssr-is-working)
 6.  [The app bundles](#the-app-bundles)
@@ -29,8 +29,8 @@ I find Next.js an awesome tool to create Web Applications, and at the end of thi
 12.  [Dynamic content with the router](#dynamic-content-with-the-router)
 13.  [Prefetching](#prefetching-1)
 14.  [Using the router to detect the active link](#using-the-router-to-detect-the-active-link)
-15.  [Using `next/router`](#using-next-router)
-16.  [Feed data to the components using `getInitialProps()`](#feed-data-to-the-components-using-getinitialprops)
+15.  [Using`next/router`](#using-next-router)
+16.  [Feed data to the components using`getInitialProps()`](#feed-data-to-the-components-using-getinitialprops)
 17.  [CSS](#css)
 18.  [Populating the head tag with custom tags](#populating-the-head-tag-with-custom-tags)
 19.  [Adding a wrapper component](#adding-a-wrapper-component)
@@ -157,7 +157,7 @@ We can choose 2 routes now: using `create-next-app` or the classic approach whic
 
 If you're familiar with [`create-react-app`](https://flaviocopes.com/react-create-react-app/), `create-next-app` is the same thing - except it creates a Next app instead of a React app, as the name implies.
 
-I assume you have already installed Node.js, which, from version 5.2 (2+ years ago at the time of writing), comes with the [`npx` command](https://flaviocopes.com/npx/) bundled. This handy tool lets us download and execute a JavaScript command, and we'll use it like this:
+I assume you have already installed Node.js, which, from version 5.2 (2+ years ago at the time of writing), comes with the [`npx`command](https://flaviocopes.com/npx/) bundled. This handy tool lets us download and execute a JavaScript command, and we'll use it like this:
 
 ```bash
 npx create-next-app
@@ -792,7 +792,7 @@ Using the Network inspector in the DevTools you'll notice that any links above t
 
 Any other `Link` tag not in the viewport will be prefetched when the user scrolls and it
 
-Prefetching is automatic on high speed connections (Wifi and 3g+ connections, unless the browser sends the [`Save-Data` HTTP Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Save-Data).
+Prefetching is automatic on high speed connections (Wifi and 3g+ connections, unless the browser sends the [`Save-Data`HTTP Header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Save-Data).
 
 You can opt out from prefetching individual `Link` instances by setting the `prefetch` prop to `false`:
 

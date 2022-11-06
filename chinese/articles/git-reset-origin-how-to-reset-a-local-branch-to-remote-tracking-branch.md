@@ -23,7 +23,7 @@ Git 可以跟踪一个项目在时间内的变化。这使得多个开发者可�
     1. [本地、远程和远程跟踪分支之间有什么区别？](#difference)
 2. [如何将本地 Git 分支重置为远程分支？](#reset)
     1. [保存你的本地分支机构的当前状态](#save)
-    2. [执行 `git checkout`](#checkout)
+    2. [执行`git checkout`](#checkout)
     3. [获取 origin](#fetch)
     4. [重置本地存储库](#reset-local)
     5. [清理任何未被追踪的变化](#clean)

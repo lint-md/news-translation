@@ -74,7 +74,7 @@ First, [https://go.dev](https://go.dev/) is the homepage of the language. This w
 -   See all the the Go packages [https://pkg.go.dev/](https://pkg.go.dev/)
 -   Access the Go Playground [https://go.dev/play/](https://go.dev/play/)
 
-…and more.
+……and more.
 
 ## How to Install Go
 
@@ -125,7 +125,7 @@ Read [Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
 
 Go extension for VSCode
 
-This extension will make your life easier, as it provides IntelliSense (syntax highlighting, autocompletion, on hover information, error highlighting…) and other things like auto formatting, menu options to install packages, testing, and more.
+This extension will make your life easier, as it provides IntelliSense (syntax highlighting, autocompletion, on hover information, error highlighting……) and other things like auto formatting, menu options to install packages, testing, and more.
 
 ## How to Write Hello, World! in Go
 
@@ -279,7 +279,7 @@ By default Go picks the `$HOME/go` path, so you will see a `go` folder in your h
 
 It’s first created when you install a package (as we’ll see later) but also to store some tooling.
 
-For example the moment I loaded the `hello.go` file in VS Code, it prompted me to install the `[gopls](https://pkg.go.dev/golang.org/x/tools/gopls)` command, the Delve debugger (`dlv`), and the [`staticcheck` linter](https://staticcheck.io/).
+For example the moment I loaded the `hello.go` file in VS Code, it prompted me to install the `[gopls](https://pkg.go.dev/golang.org/x/tools/gopls)` command, the Delve debugger (`dlv`), and the [`staticcheck`linter](https://staticcheck.io/).
 
 They were automatically installed under `$HOME/go`:
 

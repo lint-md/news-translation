@@ -17,7 +17,7 @@ I also faced challenges along the way that I didn't solve in the best way at the
 
 That's the reason I wrote this guide. I think of it like a collection of tips I'd have given myself two years ago when I started out.
 
-## Table of contents:
+## Table of contents
 
 -   [Three Major Challenges React Developers Face](#three-major-challenges-react-developers-face)
 -   [Learn The Building Blocks of React](#learn-the-building-blocks-of-react)

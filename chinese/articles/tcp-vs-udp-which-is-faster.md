@@ -105,7 +105,7 @@ TCP headers must be at least 20 bytes long and no more than 60 bytes long.
 
 ![](https://www.freecodecamp.org/news/content/images/2021/05/Screenshot-2021-05-31-at-10.56.59-AM.png)
 
-#### Headers in TCP consist of:
+#### Headers in TCP consist of
 
 1.  **Source Port** – indicates the source port on the sending device. 16 bits are reserved for it.
 2.  **Destination Port** – indicates the destination port on the receiving device. 16 bits are reserved for it.
@@ -122,7 +122,7 @@ Now let us analyze a UDP header.
 
 ![](https://www.freecodecamp.org/news/content/images/2021/05/Screenshot-2021-05-31-at-10.57.27-AM.png)
 
-#### Headers in UDP consist of:
+#### Headers in UDP consist of
 
 1.  **Source Port** – indicates the source port on the sending device. 16 bits are reserved for it.
 2.  **Destination Port** – indicates the destination port on the receiving device. 16 bits are reserved for it.

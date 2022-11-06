@@ -26,7 +26,7 @@ ADVERTISEMENT
 
 if (!isAuthenticated) (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
-### Advantages of Linked Lists:
+### Advantages of Linked Lists
 
 1.  Because of the chain-like system of linked lists, you can add and remove elements quickly. This also doesn't require reorganizing the data structure unlike arrays or lists. Linear data structures are often easier to implement using linked lists.
 2.  Linked lists also don't require a fixed size or initial size due to their chainlike structure.
@@ -35,7 +35,7 @@ ADVERTISEMENT
 
 if (!isAuthenticated) (adsbygoogle = window.adsbygoogle || \[\]).push({});
 
-### Disadvantages of a Linked Lists:
+### Disadvantages of a Linked Lists
 
 1.  More memory is required when compared to an array. This is because you need a pointer (which takes up its own memory) to point you to the next element.
 2.  Search operations on a linked list are very slow. Unlike an array, you don't have the option of random access.

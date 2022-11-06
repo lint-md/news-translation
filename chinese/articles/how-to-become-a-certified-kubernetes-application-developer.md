@@ -1061,7 +1061,7 @@ kubectl run tmp --image=busybox --restart=Never --rm -it -- /bin/sh
 
 Now you could  `wget -O- svc:port` to see if your service is running, if network policies are working, and so on.
 
-##### Note:
+##### Note
 
 The `--dry-run=client -o yaml` is not just for pods, but for many resources. If we come back to the previous section where we created a resource quota, we could get a descriptor like this:
 
